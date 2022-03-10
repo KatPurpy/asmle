@@ -52,6 +52,3 @@ charset2 (16 bytes)
 
 ### Decompression
 See `main.asm:148`
-
-### Notes
-There are some flaws like repeating words in  but that
