@@ -1,4 +1,4 @@
-# ASMLE - Wordle in 512 bytes
+# ASMLE - Bootable Wordle in 512 bytes
 
 ![](demo.gif)
 
